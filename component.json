@@ -7,7 +7,10 @@
     "reposType": "npm",
     "dependencies": {
         "classnames": "^2.2.1",
-        "fit-style": "^1.0.35"
+        "fit-style": "^1.0.42"
     },
-    "version": "1.0.37"
+    "version": "1.0.44",
+    "paths": {
+        "dist": "."
+    }
 }
